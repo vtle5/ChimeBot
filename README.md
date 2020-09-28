@@ -1,0 +1,2 @@
+# ChimeBot
+discord.js bot
