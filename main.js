@@ -144,7 +144,6 @@ async function playMusic(message, serverQueue) {
 			"Hey, can you send this in *bot-commands*, This is here to reduce spam."
 		);
 	}
-console.log('sadge');
 	if (!voiceChannel)
 		return message.channel.send(
 			"Hop into a voice channel first so I can play some tunes!"
